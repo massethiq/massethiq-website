@@ -2,25 +2,10 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
-    {
-      "source": "/formation",
-      "destination": "/formation.html"
-    },
-    {
-      "source": "/salon",
-      "destination": "/salon.html"
-    },
-    {
-      "source": "/boutique",
-      "destination": "/boutique.html"
-    },
-    {
-      "source": "/a-propos",
-      "destination": "/a-propos.html"
-    },
-    {
-      "source": "/contact",
-      "destination": "/contact.html"
-    }
+    {"source": "/formation", "destination": "/formation.html"},
+    {"source": "/salon", "destination": "/salon.html"},
+    {"source": "/boutique", "destination": "/boutique.html"},
+    {"source": "/a-propos", "destination": "/a-propos.html"},
+    {"source": "/contact", "destination": "/contact.html"}
   ]
 }
